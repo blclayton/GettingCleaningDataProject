@@ -1,6 +1,6 @@
  
 
-##title: "Coursera Getting and Cleaning Data Project"
+##"Coursera Getting and Cleaning Data Project"
 ###author: "bclayton"
 ###date: "August 23, 2015"
 
