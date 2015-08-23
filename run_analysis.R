@@ -138,5 +138,8 @@
                 tidyallData <- ddply(allDataMelt, .(Subject, Activity,variable), summarize, meanValue = mean(value))
                 
                 write.table(tidyallData, file = "tidyallData.txt", row.names = FALSE)
+<<<<<<< HEAD
                  
                 head(tidyallData, n=10 )        
+=======
+>>>>>>> origin/master
