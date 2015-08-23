@@ -1,8 +1,8 @@
  
 
-##"Coursera Getting and Cleaning Data Project"
-###author: "bclayton"
-###date: "August 23, 2015"
+##Coursera Getting and Cleaning Data Project
+###author: bclayton
+###date: August 23, 2015
 
 This is an R Markdown document for the R script run_analysis.R used to produce 
 the class project tidy file.  The main purpose of the script is to create a 
